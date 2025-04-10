@@ -1,7 +1,3 @@
-Awesome! Based on your updated plan of **4 Colabs for Part 1** and **2 Colabs for Part 2**, here’s a clean, professional, and meaningful `README.md` tailored exactly for your GitHub repository. It assumes that you have already completed the work and walkthrough video recordings.
-
----
-
 # 🧠 Advanced Data Augmentation & Keras Customization – Colab Series
 
 Welcome to the official GitHub repository for my multi-part deep learning assignment. This project demonstrates:
