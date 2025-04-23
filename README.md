@@ -32,7 +32,7 @@ Each Colab has been executed, explained, and narrated in a video walkthrough:
 
 ---
 
-### 📘 [2_image_augmentation_with_keras_cv.ipynb](#)
+### 📘 [2_image_augmentation_with_keras_cv.ipynb](https://colab.research.google.com/drive/1jLcn3uSHjHGraWmF4vngVohaU0Zo1eK6?usp=sharing)
 > **Focus**: Modern image augmentation using KerasCV.
 
 - Introduced KerasCV's `keras_cv.layers.*` augmentation layers
@@ -43,7 +43,7 @@ Each Colab has been executed, explained, and narrated in a video walkthrough:
 
 ---
 
-### 📘[3_multimodal_data_augmentation.ipynb](#)
+### 📘[3_multimodal_data_augmentation.ipynb](https://colab.research.google.com/drive/1W02Nq7yzWw1xN7Na3vkxQMFPfsigHdU1?usp=sharing)
 > **Focus**: Augmenting diverse data types using modern libraries.
 
 - **Image**: Used `AugLy` and custom image transformations
@@ -55,7 +55,7 @@ Each Colab has been executed, explained, and narrated in a video walkthrough:
 
 ---
 
-### 📘 [4_fastai_augmentation_demo.ipynb](#)
+### 📘 [4_fastai_augmentation_demo.ipynb](https://colab.research.google.com/drive/1rNwnjC4QUmgg3vYyD5bHFjyD5VnLRw-8?usp=sharing)
 > **Focus**: Leveraging FastAI's rich augmentation ecosystem.
 
 - Showcased FastAI DataBlock API with built-in transforms
