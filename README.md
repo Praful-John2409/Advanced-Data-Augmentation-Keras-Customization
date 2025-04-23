@@ -21,7 +21,7 @@ Each Colab has been executed, explained, and narrated in a video walkthrough:
 
 ## ✅ Part 1: Data Augmentation & Generalization Techniques
 
-### 📘 [1_regularization_and_callbacks.ipynb](#)
+### 📘 [1_regularization_and_callbacks.ipynb](https://colab.research.google.com/drive/1GdYzRRjaWEe6bOaesdKfE1JIN0ZeBNp5?usp=sharing)
 > **Focus**: Fundamental regularization strategies and training callbacks.
 
 - Implemented L1, L2 regularization
