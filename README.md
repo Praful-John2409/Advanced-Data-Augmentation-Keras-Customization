@@ -14,8 +14,8 @@ Welcome to the official GitHub repository for my multi-part deep learning assign
 
 Each Colab has been executed, explained, and narrated in a video walkthrough:
 
-- 🔗 **[Part 1: Data Augmentation Walkthrough](./walkthrough_videos/part1_walkthrough.mp4)**
-- 🔗 **[Part 2: Advanced Keras Constructs Walkthrough](./walkthrough_videos/part2_walkthrough.mp4)**
+- 🔗 **[Part 1: Data Augmentation Walkthrough](https://youtu.be/dVxGXS4hH2o)**
+- 🔗 **[Part 2: Advanced Keras Constructs Walkthrough](https://youtu.be/ojFC_MxTGEs)**
 
 ---
 
@@ -67,7 +67,7 @@ Each Colab has been executed, explained, and narrated in a video walkthrough:
 
 ## 🧪 Part 2: Advanced Keras Deep Learning Constructs
 
-### 📘 [1_custom_layers_losses_metrics.ipynb](#)
+### 📘 [1_custom_layers_losses_metrics.ipynb](https://colab.research.google.com/drive/1Y4RrLLppCNAtYjlAgyb63Y-DQmNQl8lS?usp=sharing)
 > **Focus**: Hands-on with custom objects in Keras.
 
 - Built a **custom learning rate scheduler**
@@ -78,7 +78,7 @@ Each Colab has been executed, explained, and narrated in a video walkthrough:
 
 ---
 
-### 📘 [2_custom_models_optimizers_training_loop.ipynb](#)
+### 📘 [2_custom_models_optimizers_training_loop.ipynb](https://colab.research.google.com/drive/1ANo673I19A7KNk9L-l_MDkvsrz6xC1yG?usp=sharing)
 > **Focus**: Full control with custom layers, models, and training logic.
 
 - Built custom layers: `ExponentialLayer`, `MyDense`, `AddGaussianNoise`
